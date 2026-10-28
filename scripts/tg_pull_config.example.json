@@ -1,0 +1,15 @@
+{
+  "vault": "~/Vault",
+  "note_folder": "Telegram",
+  "days_back": 14,
+  "per_chat_limit": 300,
+  "transcribe_voices": true,
+  "whisper_model": "medium",
+  "download_media": true,
+  "max_media_mb": 100,
+  "chats": [
+    {"id": "me", "label": "Saved Messages"},
+    {"id": -1001234567890, "label": "Example channel", "note_folder": "Telegram/Channels"},
+    {"id": "example_username", "label": "Example contact"}
+  ]
+}
